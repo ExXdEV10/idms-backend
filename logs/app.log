@@ -1,0 +1,402 @@
+2025-03-19T15:38:10.029Z [INFO]: User logged in successfully (email: kwame.mensah1212@example.com)
+2025-03-19T15:39:05.417Z [INFO]: Fetched all threats
+2025-03-19T15:40:08.132Z [INFO]: Fetched all threats
+2025-03-19T16:03:28.149Z [INFO]: User logged in successfully (email: kwame.mensah1212@example.com)
+2025-03-19T16:05:06.891Z [INFO]: User logged in successfully (email: kwame.mensah1212@example.com)
+2025-03-19T16:05:19.428Z [INFO]: User logged in successfully (email: kwame.mensah1212@example.com)
+2025-03-19T16:06:37.555Z [INFO]: User logged in successfully (email: kwame.mensah1212@example.com)
+2025-03-19T16:07:28.618Z [INFO]: Fetched all threats
+2025-03-19T16:07:46.255Z [INFO]: Fetched all logs
+2025-03-19T16:08:15.732Z [INFO]: Fetched all logs
+2025-03-19T16:11:07.981Z [INFO]: User logged in successfully (email: kwame.mensah1212@example.com)
+2025-03-19T16:11:32.543Z [INFO]: Fetched all threats
+2025-03-19T16:11:51.369Z [INFO]: Fetched all threats
+2025-03-19T16:12:03.669Z [INFO]: Fetched all logs
+2025-03-19T16:14:43.260Z [INFO]: GET /api/logs/report
+2025-03-19T16:14:43.265Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T16:23:21.340Z [INFO]: GET /api/logs/report
+2025-03-19T16:23:21.346Z [INFO]: Mounted Routes:
+2025-03-19T16:23:21.346Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T16:23:21.347Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T16:23:21.347Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T16:23:21.348Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T16:23:21.348Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T16:23:21.348Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T16:23:21.348Z [INFO]: GET /
+2025-03-19T16:23:21.348Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T16:23:31.599Z [INFO]: POST /api/auth/login
+2025-03-19T16:23:31.997Z [INFO]: User logged in successfully (email: kwame.mensah1212@example.com)
+2025-03-19T16:23:49.860Z [INFO]: GET /api/logs/report
+2025-03-19T16:23:49.861Z [INFO]: Mounted Routes:
+2025-03-19T16:23:49.862Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T16:23:49.862Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T16:23:49.862Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T16:23:49.862Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T16:23:49.863Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T16:23:49.863Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T16:23:49.863Z [INFO]: GET /
+2025-03-19T16:23:49.863Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T16:29:14.824Z [INFO]: POST /api/auth/login
+2025-03-19T16:29:15.172Z [INFO]: User logged in successfully (email: kwame.mensah1212@example.com)
+2025-03-19T16:29:40.881Z [INFO]: GET /api/logs/logs
+2025-03-19T16:29:41.341Z [INFO]: Fetched all logs
+2025-03-19T16:30:05.684Z [INFO]: GET /api/logs/report
+2025-03-19T16:30:05.687Z [INFO]: Mounted Routes:
+2025-03-19T16:30:05.688Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T16:30:05.688Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T16:30:05.689Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T16:30:05.690Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T16:30:05.690Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T16:30:05.690Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T16:30:05.690Z [INFO]: GET /
+2025-03-19T16:30:05.691Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T16:37:50.044Z [INFO]: GET /api/threats/threats
+2025-03-19T16:38:19.994Z [INFO]: GET /api/logs/logs
+2025-03-19T16:38:20.534Z [INFO]: Fetched all logs
+2025-03-19T16:42:40.896Z [INFO]: GET /api/threats/detect
+2025-03-19T16:42:40.905Z [INFO]: Mounted Routes:
+2025-03-19T16:42:40.905Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T16:42:40.906Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T16:42:40.906Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T16:42:40.907Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T16:42:40.907Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T16:42:40.907Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T16:42:40.907Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T16:42:40.908Z [INFO]: GET /
+2025-03-19T16:42:40.908Z [WARN]: 404: Route not found - GET /api/threats/detect
+2025-03-19T16:42:57.314Z [INFO]: POST /api/auth/login
+2025-03-19T16:42:57.640Z [INFO]: User logged in successfully (email: kwame.mensah1212@example.com)
+2025-03-19T16:43:27.513Z [INFO]: GET /api/threats/detect
+2025-03-19T16:43:27.514Z [INFO]: Mounted Routes:
+2025-03-19T16:43:27.514Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T16:43:27.514Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T16:43:27.515Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T16:43:27.515Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T16:43:27.515Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T16:43:27.515Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T16:43:27.515Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T16:43:27.515Z [INFO]: GET /
+2025-03-19T16:43:27.516Z [WARN]: 404: Route not found - GET /api/threats/detect
+2025-03-19T16:43:47.218Z [INFO]: GET /api/threats/threats
+2025-03-19T16:44:03.307Z [INFO]: GET /api/logs/logs
+2025-03-19T16:44:03.741Z [INFO]: Fetched all logs
+2025-03-19T16:44:24.166Z [INFO]: GET /api/threats/threats
+2025-03-19T16:44:42.009Z [INFO]: GET /api/logs/report
+2025-03-19T16:44:42.011Z [INFO]: Mounted Routes:
+2025-03-19T16:44:42.011Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T16:44:42.011Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T16:44:42.011Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T16:44:42.011Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T16:44:42.011Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T16:44:42.011Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T16:44:42.012Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T16:44:42.012Z [INFO]: GET /
+2025-03-19T16:44:42.012Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T16:46:26.825Z [INFO]: GET /api/threats/detect
+2025-03-19T16:46:26.832Z [INFO]: Mounted Routes:
+2025-03-19T16:46:26.833Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T16:46:26.834Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T16:46:26.834Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T16:46:26.835Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T16:46:26.835Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T16:46:26.835Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T16:46:26.835Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T16:46:26.836Z [INFO]: GET /
+2025-03-19T16:46:26.837Z [WARN]: 404: Route not found - GET /api/threats/detect
+2025-03-19T16:46:50.523Z [INFO]: POST /api/auth/login
+2025-03-19T16:46:50.932Z [INFO]: User logged in successfully (email: kwame.mensah1212@example.com)
+2025-03-19T16:47:01.680Z [INFO]: GET /api/threats/detect
+2025-03-19T16:47:01.681Z [INFO]: Mounted Routes:
+2025-03-19T16:47:01.682Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T16:47:01.682Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T16:47:01.682Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T16:47:01.682Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T16:47:01.682Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T16:47:01.682Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T16:47:01.682Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T16:47:01.682Z [INFO]: GET /
+2025-03-19T16:47:01.683Z [WARN]: 404: Route not found - GET /api/threats/detect
+2025-03-19T16:47:07.766Z [INFO]: GET /
+2025-03-19T16:47:23.919Z [INFO]: GET /api/threats/threats
+2025-03-19T16:47:42.179Z [INFO]: GET /api/threats/threats
+2025-03-19T16:48:11.283Z [INFO]: GET /api/logs/logs
+2025-03-19T16:48:36.431Z [INFO]: GET /api/threats/threats
+2025-03-19T16:49:07.245Z [INFO]: GET /api/threats/threats
+2025-03-19T16:52:35.689Z [INFO]: POST /api/auth/login
+2025-03-19T16:52:36.084Z [INFO]: User logged in successfully (email: kwame.mensah1212@example.com)
+2025-03-19T16:52:57.469Z [INFO]: GET /api/logs/logs
+2025-03-19T16:52:57.928Z [INFO]: Fetched all logs
+2025-03-19T16:53:16.520Z [INFO]: GET /api/threats/threats
+2025-03-19T16:53:32.685Z [INFO]: GET /api/logs/report
+2025-03-19T16:53:32.686Z [INFO]: Mounted Routes:
+2025-03-19T16:53:32.687Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T16:53:32.687Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T16:53:32.688Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T16:53:32.688Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T16:53:32.688Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T16:53:32.688Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T16:53:32.688Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T16:53:32.689Z [INFO]: GET /
+2025-03-19T16:53:32.689Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:11:37.943Z [INFO]: POST /api/auth/login
+2025-03-19T18:11:38.311Z [INFO]: User logged in successfully (email: kwame.mensah1212@example.com)
+2025-03-19T18:12:05.903Z [INFO]: GET /api/logs/logs
+2025-03-19T18:12:05.911Z [INFO]: Token verified for user ID: 67dab94f50ac82c6cc14457a
+2025-03-19T18:12:06.425Z [INFO]: Fetched all logs
+2025-03-19T18:12:22.437Z [INFO]: GET /api/logs/report
+2025-03-19T18:12:22.442Z [INFO]: Mounted Routes:
+2025-03-19T18:12:22.443Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:12:22.443Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:12:22.444Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:12:22.445Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:12:22.445Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:12:22.445Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:12:22.445Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:12:22.445Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:12:22.445Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:12:22.446Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:12:22.446Z [INFO]: GET /
+2025-03-19T18:12:22.447Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:17:38.207Z [INFO]: GET /api/logs/report
+2025-03-19T18:17:38.212Z [INFO]: Mounted Routes:
+2025-03-19T18:17:38.212Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:17:38.213Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:17:38.213Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:17:38.213Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:17:38.213Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:17:38.213Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:17:38.213Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:17:38.214Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:17:38.214Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:17:38.214Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:17:38.214Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T18:17:38.214Z [INFO]: GET /
+2025-03-19T18:17:38.214Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:17:39.646Z [INFO]: GET /api/logs/report
+2025-03-19T18:17:39.647Z [INFO]: Mounted Routes:
+2025-03-19T18:17:39.648Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:17:39.648Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:17:39.648Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:17:39.648Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:17:39.648Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:17:39.648Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:17:39.648Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:17:39.648Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:17:39.648Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:17:39.648Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:17:39.648Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T18:17:39.648Z [INFO]: GET /
+2025-03-19T18:17:39.649Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:17:40.501Z [INFO]: GET /api/logs/report
+2025-03-19T18:17:40.501Z [INFO]: Mounted Routes:
+2025-03-19T18:17:40.501Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:17:40.502Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:17:40.502Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:17:40.502Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:17:40.502Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:17:40.502Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:17:40.502Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:17:40.502Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:17:40.502Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:17:40.502Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:17:40.502Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T18:17:40.502Z [INFO]: GET /
+2025-03-19T18:17:40.502Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:17:41.217Z [INFO]: GET /api/logs/report
+2025-03-19T18:17:41.218Z [INFO]: Mounted Routes:
+2025-03-19T18:17:41.218Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:17:41.218Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:17:41.218Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:17:41.218Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:17:41.219Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:17:41.219Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:17:41.219Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:17:41.219Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:17:41.219Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:17:41.219Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:17:41.219Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T18:17:41.219Z [INFO]: GET /
+2025-03-19T18:17:41.220Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:17:41.783Z [INFO]: GET /api/logs/report
+2025-03-19T18:17:41.783Z [INFO]: Mounted Routes:
+2025-03-19T18:17:41.783Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:17:41.784Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:17:41.784Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:17:41.784Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:17:41.784Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:17:41.784Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:17:41.784Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:17:41.784Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:17:41.784Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:17:41.784Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:17:41.785Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T18:17:41.785Z [INFO]: GET /
+2025-03-19T18:17:41.785Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:17:41.792Z [INFO]: GET /api/logs/report
+2025-03-19T18:17:41.793Z [INFO]: Mounted Routes:
+2025-03-19T18:17:41.793Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:17:41.793Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:17:41.793Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:17:41.793Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:17:41.793Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:17:41.794Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:17:41.794Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:17:41.794Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:17:41.794Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:17:41.794Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:17:41.794Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T18:17:41.794Z [INFO]: GET /
+2025-03-19T18:17:41.794Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:17:41.999Z [INFO]: GET /api/logs/report
+2025-03-19T18:17:41.999Z [INFO]: Mounted Routes:
+2025-03-19T18:17:41.999Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:17:41.999Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:17:41.999Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:17:41.999Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:17:41.999Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:17:41.999Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:17:41.999Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:17:41.999Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:17:41.999Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:17:41.999Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:17:41.999Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T18:17:41.999Z [INFO]: GET /
+2025-03-19T18:17:42.000Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:17:42.245Z [INFO]: GET /api/logs/report
+2025-03-19T18:17:42.245Z [INFO]: Mounted Routes:
+2025-03-19T18:17:42.245Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:17:42.246Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:17:42.246Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:17:42.246Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:17:42.246Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:17:42.246Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:17:42.246Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:17:42.246Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:17:42.246Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:17:42.246Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:17:42.246Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T18:17:42.246Z [INFO]: GET /
+2025-03-19T18:17:42.246Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:17:42.452Z [INFO]: GET /api/logs/report
+2025-03-19T18:17:42.452Z [INFO]: Mounted Routes:
+2025-03-19T18:17:42.453Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:17:42.453Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:17:42.453Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:17:42.453Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:17:42.453Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:17:42.453Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:17:42.453Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:17:42.453Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:17:42.453Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:17:42.453Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:17:42.453Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T18:17:42.453Z [INFO]: GET /
+2025-03-19T18:17:42.453Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:17:42.650Z [INFO]: GET /api/logs/report
+2025-03-19T18:17:42.651Z [INFO]: Mounted Routes:
+2025-03-19T18:17:42.651Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:17:42.651Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:17:42.652Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:17:42.652Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:17:42.652Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:17:42.652Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:17:42.652Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:17:42.652Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:17:42.652Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:17:42.652Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:17:42.652Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T18:17:42.652Z [INFO]: GET /
+2025-03-19T18:17:42.652Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:17:49.191Z [INFO]: GET /api/logs/logs
+2025-03-19T18:17:49.203Z [INFO]: Token verified for user ID: 67dab94f50ac82c6cc14457a
+2025-03-19T18:17:49.650Z [INFO]: Fetched all logs
+2025-03-19T18:18:02.426Z [INFO]: GET /api/report
+2025-03-19T18:18:02.427Z [INFO]: Mounted Routes:
+2025-03-19T18:18:02.427Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:18:02.427Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:18:02.427Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:18:02.427Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:18:02.427Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:18:02.427Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:18:02.427Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:18:02.427Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:18:02.427Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:18:02.427Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:18:02.427Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T18:18:02.427Z [INFO]: GET /
+2025-03-19T18:18:02.428Z [WARN]: 404: Route not found - GET /api/report
+2025-03-19T18:18:49.318Z [INFO]: GET /api/logs/report
+2025-03-19T18:18:49.318Z [INFO]: Mounted Routes:
+2025-03-19T18:18:49.319Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:18:49.319Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:18:49.319Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:18:49.319Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:18:49.319Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:18:49.319Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:18:49.319Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:18:49.319Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:18:49.320Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:18:49.320Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:18:49.320Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T18:18:49.320Z [INFO]: GET /
+2025-03-19T18:18:49.320Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:19:49.380Z [INFO]: GET /api/logs/report
+2025-03-19T18:19:49.381Z [INFO]: Mounted Routes:
+2025-03-19T18:19:49.381Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:19:49.381Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:19:49.382Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:19:49.382Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:19:49.382Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:19:49.382Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:19:49.383Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:19:49.383Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:19:49.383Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:19:49.383Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:19:49.383Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T18:19:49.383Z [INFO]: GET /
+2025-03-19T18:19:49.383Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:19:50.755Z [INFO]: GET /api/logs/report
+2025-03-19T18:19:50.755Z [INFO]: Mounted Routes:
+2025-03-19T18:19:50.755Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-19T18:19:50.755Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-19T18:19:50.755Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-19T18:19:50.755Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-19T18:19:50.755Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-19T18:19:50.755Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-19T18:19:50.755Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-19T18:19:50.755Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-19T18:19:50.755Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-19T18:19:50.755Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-19T18:19:50.755Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-19T18:19:50.755Z [INFO]: GET /
+2025-03-19T18:19:50.755Z [WARN]: 404: Route not found - GET /api/logs/report
+2025-03-19T18:19:57.470Z [INFO]: GET /api/logs/logs
+2025-03-19T18:19:57.476Z [INFO]: Token verified for user ID: 67dab94f50ac82c6cc14457a
+2025-03-19T18:19:57.888Z [INFO]: Fetched all logs
+2025-03-19T21:50:37.514Z [INFO]: GET /
+2025-03-20T17:50:21.517Z [INFO]: GET /
+2025-03-20T17:50:33.050Z [INFO]: POST /api/auth/login
+2025-03-20T17:50:33.466Z [INFO]: User logged in successfully (email: kwame.mensah1212@example.com)
+2025-03-20T17:51:15.671Z [INFO]: GET /api/logs/logs
+2025-03-20T17:51:15.676Z [INFO]: Token verified for user ID: 67dab94f50ac82c6cc14457a
+2025-03-20T17:51:16.137Z [INFO]: Fetched all logs
+2025-03-20T17:51:43.809Z [INFO]: GET /api/threats/threats
+2025-03-20T17:51:43.813Z [INFO]: Token verified for user ID: 67dab94f50ac82c6cc14457a
+2025-03-20T17:52:08.612Z [INFO]: GET /api/logs/logs
+2025-03-20T17:52:08.615Z [INFO]: Token verified for user ID: 67dab94f50ac82c6cc14457a
+2025-03-20T17:52:08.970Z [INFO]: Fetched all logs
+2025-03-20T17:52:21.327Z [INFO]: GET /api/logs/report
+2025-03-20T17:52:21.328Z [INFO]: Mounted Routes:
+2025-03-20T17:52:21.329Z [INFO]: POST /api^api\/auth\/?/register
+2025-03-20T17:52:21.329Z [INFO]: POST /api^api\/auth\/?/login
+2025-03-20T17:52:21.329Z [INFO]: GET /api^api\/auth\/?/user
+2025-03-20T17:52:21.329Z [INFO]: POST /api^api\/auth\/?/change-password
+2025-03-20T17:52:21.329Z [INFO]: POST /api^api\/auth\/?/logout
+2025-03-20T17:52:21.330Z [INFO]: POST /api^api\/threats\/?/threats
+2025-03-20T17:52:21.330Z [INFO]: GET /api^api\/threats\/?/threats
+2025-03-20T17:52:21.330Z [INFO]: POST /api^api\/threats\/?/threats/detect
+2025-03-20T17:52:21.330Z [INFO]: GET /api^api\/logs\/?/logs
+2025-03-20T17:52:21.330Z [INFO]: GET /api^api\/logs\/?/logs/threats-report
+2025-03-20T17:52:21.330Z [INFO]: GET /api^api\/logs\/?/logs/report
+2025-03-20T17:52:21.330Z [INFO]: GET /
+2025-03-20T17:52:21.330Z [WARN]: 404: Route not found - GET /api/logs/report
